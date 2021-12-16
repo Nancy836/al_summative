@@ -65,6 +65,8 @@ def decrypt():
 
 decrypt()
 
+#factors that make the algorithm simple and clear: The arrays were looped through in one for loop to make the algorithm more concise
+
 
 
 
